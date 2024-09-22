@@ -1,0 +1,6 @@
+The goal of the object detection system is to identify the presence of an object using an IR_Obstacle sensor. Based on the detection, the system will display an appropriate message and activate the Auto Flash LED module. This functionality allows for efficient responses to the presence of objects in the environment, which can be useful in various applications, such as security systems or automated control devices.
+
+Required components: 
+IR_Obstacle – a sensor that uses infrared (IR) rays to detect objects within its range. The sensor emits IR rays that reflect off objects and return to the receiver. Based on the time it takes for the rays to return, the sensor determines the distance to the obstacle and sends a signal to the microcontroller or another device. This sensor is highly useful in various applications, such as robotics, automated control systems, and security solutions.
+
+Auto Flash LED – a device that automatically controls the blinking of an LED light. This module enables dynamic and visually appealing light presentation, making it ideal for applications in signaling, decorative lighting, and various projects where controlled blinking is required. It easily integrates into different electronic systems and provides simple functionality with minimal effort.
